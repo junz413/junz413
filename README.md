@@ -8,7 +8,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-
+```javascript
 const developer = {
     name: "Your Name",
     role: "Full Stack Developer",
@@ -23,7 +23,7 @@ const developer = {
     currentFocus: "Building awesome things with AI 🤖",
     funFact: "I debug with console.log() 🐛"
 };
-
+```
 
 ## 🛠️ Tech Stack
 
@@ -68,7 +68,8 @@ const developer = {
 
 </div>
 
-🐍 Contribution Snake
+## 🐍 Contribution Snake
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>

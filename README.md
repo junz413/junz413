@@ -1,25 +1,12 @@
-<div align="center">
+# 👋 Hi, I’m @junz413
 
-<!-- Walking Animation -->
-<pre id="walker"></pre>
-
-<!-- Wave Animation -->
-<pre id="wave"></pre>
-
-</div>
-
-**🚀 Aspiring Developer | 📚 Learning Fundamentals | 🏗️ Builder at Heart**
+👀 **Interested in:** Programming & building cool things  
+🌱 **Currently learning:** Basic programming fundamentals  
+💞️ **Looking to collaborate on:** Programs in *any* language  
+📫 **Reach me on Instagram:** [@richard_junz](https://instagram.com/richard_junz)  
+⚡ **Fun fact:** I love eating 🍔🍕  
 
 ---
-
-## 🌟 About Me
-I'm passionate about programming and building practical solutions. Currently diving deep into programming fundamentals while working on real-world projects. My current focus is building a complete **Inventory Books System** from scratch!
-
-**🍔 Fun Fact:** I can code and eat burgers simultaneously (multi-tasking pro!)
-
-## 📍 Current Focus: **Inventory Books System**
-
-### 🎯 Project Overview
 
 ## 🛠️ Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -40,10 +27,7 @@ I'm passionate about programming and building practical solutions. Currently div
 ![GitHub Streak](https://streak-stats.demolab.com?user=junz413&theme=tokyonight&hide_border=true)
 
 
-Python: ⭐⭐⭐⭐☆  
-HTML/CSS: ⭐⭐⭐☆☆  
-JavaScript: ⭐⭐☆☆☆  
-Git: ⭐⭐⭐☆☆  
+
 
 
 
@@ -58,3 +42,5 @@ Git: ⭐⭐⭐☆☆
 ---
 
 ⭐ *Feel free to check out my repositories and collaborate with me!*  
+
+enhance the effects and i currently making inventory books system

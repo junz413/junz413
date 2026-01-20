@@ -68,8 +68,7 @@ const developer = {
 
 </div>
 
-## 🐍 Contribution Snake
-
+🐍 Contribution Snake
 <div align="center">
   <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>

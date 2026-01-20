@@ -10,15 +10,14 @@
 
 ```javascript
 const developer = {
-    name: "Your Name",
+    name: "Richard James Junio",
     role: "Full Stack Developer",
-    location: "Earth 🌍",
-    code: ["JavaScript", "TypeScript", "Python", "Java"],
+    location: "Magallanes ADN",
+    code: ["JavaScript", "Python", "Java"],
     technologies: {
-        frontend: ["React", "Vue", "Next.js"],
-        backend: ["Node.js", "Express", "Django"],
-        database: ["MongoDB", "PostgreSQL", "Redis"],
-        cloud: ["AWS", "Azure", "GCP"]
+        frontend: ["html","css"],
+        backend: ["Flask", "Python"],
+        database: [""Mysql"],
     },
     currentFocus: "Building awesome things with AI 🤖",
     funFact: "I debug with console.log() 🐛"

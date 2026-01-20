@@ -1,4 +1,12 @@
-# 👋 Hello, I'm Richard Junz (@junz413)
+<div align="center">
+
+<!-- Walking Animation -->
+<pre id="walker"></pre>
+
+<!-- Wave Animation -->
+<pre id="wave"></pre>
+
+</div>
 
 **🚀 Aspiring Developer | 📚 Learning Fundamentals | 🏗️ Builder at Heart**
 
@@ -8,8 +16,6 @@
 I'm passionate about programming and building practical solutions. Currently diving deep into programming fundamentals while working on real-world projects. My current focus is building a complete **Inventory Books System** from scratch!
 
 **🍔 Fun Fact:** I can code and eat burgers simultaneously (multi-tasking pro!)
-
----
 
 ## 📍 Current Focus: **Inventory Books System**
 

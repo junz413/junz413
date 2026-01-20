@@ -6,8 +6,9 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;UI%2FUX+Designer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+</div>
 ```javascript
 const developer = {
     name: "Richard James Junio",

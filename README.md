@@ -24,7 +24,8 @@
 ---
 
 ## 🔥 GitHub Streak
-https://streak-stats.demolab.com/?user=junz413
+![GitHub Streak](https://streak-stats.demolab.com?user=junz413)
+
 
 
 

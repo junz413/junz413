@@ -43,32 +43,32 @@ const developer = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a177f7&text_color=ffffff&icon_color=a177f7&border_color=30363d"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=radical&bg_color=0d1117&title_color=a177f7&text_color=ffffff&border_color=30363d"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&background=0d1117&ring=a177f7&fire=a177f7&currStreakLabel=a177f7&border=30363d" alt="GitHub Streak" />
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-dark&bg_color=0d1117&color=a177f7&line=a177f7&point=ffffff&area=true&hide_border=false&border_color=30363d" />
 </div>
 
 ## 💼 Recent Projects
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight)](https://github.com/yourusername/project1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight)](https://github.com/yourusername/project2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical&bg_color=0d1117&title_color=a177f7&text_color=ffffff&icon_color=a177f7&border_color=30363d)](https://github.com/yourusername/project1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical&bg_color=0d1117&title_color=a177f7&text_color=ffffff&icon_color=a177f7&border_color=30363d)](https://github.com/yourusername/project2)
 
 </div>
 
@@ -98,19 +98,19 @@ const developer = {
 ## 💭 Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=0d1117&border_color=30363d" />
 </div>
 
 ## 😄 Random Dev Meme
 
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+  <img src="https://readme-jokes.vercel.app/api?theme=radical&bgColor=0d1117&borderColor=30363d" alt="Jokes Card" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=a177f7&style=for-the-badge&label=Profile+Views" />
 </div>
 
 <div align="center">
